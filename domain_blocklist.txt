@@ -96,3 +96,12 @@ openspace.pro,cuckoo
 mylimajai.lt,cuckoo
 tvoy-android.com,cuckoo
 mobile-kontent.com,cuckoo
+www.morpho.it,spambox
+www.fincom2.it,spambox
+marmorkontor.de,spambox
+www.bgrea.karoo.net,spambox
+dslandscape.50webs.com,spambox
+mendikurconsulting.com,spambox
+goodsuntoday.com,spambox
+gmp.home.ro,spambox
+
