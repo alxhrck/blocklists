@@ -1,4 +1,3 @@
-domain,reference
 xfyubqmldwvuyar.yt,fbi_flash
 kpybuhnosdrm.in,fbi_flash
 xsso.kpybuhnosdrm.in,fbi_flash
@@ -65,7 +64,6 @@ wedietstrast.com,cuckoo
 781-healthandbeauty.wedietstrast.com,cuckoo
 itranscript.ng,cuckoo
 zg.al,cuckoo
-goo.gl,cuckoo
 cleves.top,cuckoo
 exclusive-closet.com,cuckoo
 sturminvestigations.com,cuckoo
